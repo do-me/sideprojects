@@ -1,7 +1,7 @@
 # Side Projects
 
 ## GIS 
-### 1 Vatican Norh Arrow 
+### 1 Vatican North Arrow 
 The Saint Peter's Square in Vatican/Rome has some really charming North (and South, East, West) arrows. I uploaded four photos here I thought about vectorizing with e.g. https://www.visioncortex.org/vtracer/ to SVG and creating a simple HTML div for e.g. Leaflet maps or similar. Shouldn't be too hard. 
 
 ![](/north_arrow_images_vatican/nord.jpg)
