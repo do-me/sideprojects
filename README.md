@@ -1,13 +1,12 @@
 # Side Projects
 
 ## GIS 
-### 1 Vatican North Arrow 
-The Saint Peter's Square in Vatican/Rome has some really charming North (and South, East, West) arrows. I uploaded four photos here I thought about vectorizing with e.g. https://www.visioncortex.org/vtracer/ to SVG and creating a simple HTML div for e.g. Leaflet maps or similar. Shouldn't be too hard. 
+### 1 Vatican North Arrow: https://github.com/do-me/vatican-windrose
+The Saint Peter's Square in Vatican/Rome has some really charming North (and South, East, West) arrows. I uploaded four photos here I thought about vectorizing with e.g. https://www.visioncortex.org/vtracer/ to SVG and creating a simple HTML div for e.g. Leaflet maps or similar.
+
+Status: Done :)
 
 ![](/north_arrow_images_vatican/nord.jpg)
-![](/north_arrow_images_vatican/sud.jpg)
-![](/north_arrow_images_vatican/est.jpg)
-![](/north_arrow_images_vatican/west.jpg)
 
 ## ML
 ## 1 Semantic Search for Encyclopedias
